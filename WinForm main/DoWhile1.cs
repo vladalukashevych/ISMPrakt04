@@ -25,6 +25,7 @@ namespace WinForm_main
             if (correctN == false)
             {
                 MessageBox.Show("Incorrect data entered", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                TextBoxNumber.Clear();
             }
             else
             {
@@ -38,6 +39,7 @@ namespace WinForm_main
                 else
                 {
                     sum += n;
+                    TextBoxNumber.Clear();
                 }
             }
         }
