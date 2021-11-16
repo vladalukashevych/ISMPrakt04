@@ -1,0 +1,22 @@
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\bin\Debug\WinForm main.exe.config
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\bin\Debug\WinForm main.exe
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\bin\Debug\WinForm main.pdb
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\bin\Debug\ClassLibrary.dll
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\bin\Debug\ClassLibrary.pdb
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm.csproj.AssemblyReference.cache
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm_main.For1.resources
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm_main.ISMPrakt04.resources
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm_main.Properties.Resources.resources
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm.csproj.CopyComplete
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm main.exe
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm main.pdb
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm_main.For4.resources
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm_main.For2.resources
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm_main.For3.resources
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm_main.For5.resources
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm_main.While1.resources
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm_main.While2.resources
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm_main.DoWhile1.resources
+C:\Users\Vlada\source\repos\ISMPrakt04\WinForm main\obj\Debug\WinForm_main.While3.resources
